@@ -90,3 +90,8 @@ nonunitarity-mass-plot --input data/curves/eta_mue_cLFV_blennow2023_digitized.cs
 ```
 
 Para regenerar el CSV a partir del PDF vectorial de arXiv, instalar `.[digitize]` y seguir la guía de `docs/mass_dependent_mue.md`.
+## Gráficas
+
+![Límites μ–e dependientes de masa](figures/eta_mue_mass_dependent.png)
+
+[Descargar la versión PDF](figures/eta_mue_mass_dependent.pdf)
