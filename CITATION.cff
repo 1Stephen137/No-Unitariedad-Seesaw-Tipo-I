@@ -1,0 +1,6 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the repository and the primary sources recorded with each dataset."
+title: "NonUnitaryLimits"
+version: 0.1.0
+type: software
+license: MIT
